@@ -100,6 +100,19 @@ Individual entries and objects can be set to Internal if you wish them to appear
 Much of this will be familiar from the CV Template
 
 
+- Employment- LSHTM appointments
+- Other Academic Appointments
+- Non-academic appointments
+
+- Degrees
+- Postgraduate Training
+- Certifications
+- Addresses
+- Phone numbers
+- Email addresses
+- Language Competencies
+
+
 ### Bio
 
 A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs
@@ -144,7 +157,7 @@ Room number can be included here, if you still have one
 Private by default
 
 
-### Phones
+### Phone numbers
 
 ### Language Competencies
 
@@ -154,7 +167,7 @@ Private by default
 
 ### Favourites
 
-You can choose to mark some publications with a heart, as Selected/Favourites
+You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile,
 
 
 ### Privacy
