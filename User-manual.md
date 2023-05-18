@@ -201,33 +201,64 @@ You should generally only add yourself as C0-I or Co-PI if you are known to the 
 
 ### Modifying Grants
 
+If you are linked to a Grant you are able to edit it, by adding a manual record
+
+
 #### Add Manual Record
+
+Only these fields are displayed in Discovery
+
 
 ##### Title
 
+Titles as set in Agresso may not be very informative
+
+
 ##### Description
+
+This free-text field allows you to include more information about the project, such as abstract, value, collaborators, Ultimate Funder, etc.
+
+
+##### Funder
+
+The Funder field in Agresso contains either the Ultimate Funder, or the Lead Institution in cases where LSHTM is a sub-contractor
+
 
 ##### URL
 
+Link to funders award page, or project website
+
+
+##### Start Date
+
+##### End Date
+
 ### Adding grants
+
+There are other Grant types that you can add to cover those not fed from Agresso
+
 
 #### External
 
-##### Current
+Current or historic grants held at other institutions
 
-##### Historic
 
 #### MRC
 
+Grants held by the MRC Units
+
+
 #### Other LSHTM
 
-##### Nominal
+Nominal grants, Public Engagement grants,  disbursements from large infrastructure awards such as GCRF, etc
 
-##### GCRF etc
 
 ## Professional
 
 ### Confidentiality
+
+be sure not to put anybody's personal data when listing activities such as reviewing grants, or mock interviews
+
 
 ### External
 
@@ -241,15 +272,12 @@ You should generally only add yourself as C0-I or Co-PI if you are known to the 
 
 #### Committees
 
-#### 
+#### Other[???]
 
 ### Internal
 
-#### Default Privacy
+These local activities will not be published to your profile by default. You may choose to make individual items public
 
-#### LSHTM Citizenship
-
-#### LSHTM Leadership
 
 ## Teaching
 
@@ -263,13 +291,29 @@ You should generally only add yourself as C0-I or Co-PI if you are known to the 
 
 # Timeline
 
+## enable URL
+
+### enable DNS
+
+### enable global access
+
+## Pilot
+
+### June 2023
+
+## Revise
+
 ## Announce
 
-## Remind
+### August 2023
 
 ## Monitor
 
+## Remind
+
 ## Go Live
+
+### September 2023
 
 # Support
 
@@ -280,4 +324,3 @@ You should generally only add yourself as C0-I or Co-PI if you are known to the 
 ## Videos??
 
 ## Drop-ins
-
