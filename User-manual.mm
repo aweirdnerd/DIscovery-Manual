@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Discovery Module Comms Plan" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1684309374979" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FLOW"><hook NAME="MapStyle" background="#d6e8e8" zoom="0.826">
+<node TEXT="Discovery Module User Manual for Pilot" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1684419516079" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FLOW"><hook NAME="MapStyle" background="#d6e8e8" zoom="0.826">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_sky_element_template.mm"/>
 
 <map_styles>
@@ -81,14 +81,14 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
 <node TEXT="Guidance" POSITION="bottom_or_right" ID="ID_1060037075" CREATED="1684309379974" MODIFIED="1684309397794">
-<node TEXT="overview" FOLDED="true" ID="ID_405799749" CREATED="1684311057180" MODIFIED="1684397256641"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="overview" FOLDED="true" ID="ID_405799749" CREATED="1684311057180" MODIFIED="1684420083938"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      The School's Web profiles system will shortly be be changing to a new system for editing and supplying data.
+      The School's Web profiles system will shortly be be changing to a new system for editing and supplying data, and a new expanded profiles portal, the Elements Discover module
     </p>
   </body>
 </html>

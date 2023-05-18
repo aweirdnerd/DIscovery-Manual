@@ -1,10 +1,10 @@
- Discovery Module Comms Plan
+ Discovery Module User Manual for Pilot
 
 # Guidance
 
 ## overview
 
-The School's Web profiles system will shortly be be changing to a new system for editing and supplying data.
+The School's Web profiles system will shortly be be changing to a new system for editing and supplying data, and a new expanded profiles portal, the Elements Discover module
 
 
 ### Gateway v Discovery
@@ -115,12 +115,7 @@ Much of this will be familiar from the CV Template
 
 ### Bio
 
-A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs
-
-
-#### No links
-
-Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
+A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
 
 
 ### Web addresses
@@ -130,36 +125,8 @@ These appear in a sidebar
 
 ### Media
 
-Youtube only, unfortunately
+Videos, but Youtube only, unfortunately
 
-
-### Employment
-
-#### LSHTM
-
-#### Other Academic
-
-#### Non-Academic
-
-### Degrees
-
-### Certifications
-
-### Postgraduate training
-
-### Addresses
-
-Room number can be included here, if you still have one
-
-
-### Emails
-
-Private by default
-
-
-### Phone numbers
-
-### Language Competencies
 
 ## Photo
 
