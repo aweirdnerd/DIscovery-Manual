@@ -1,10 +1,10 @@
- Discovery Module User Manual for Pilot
+ LSHTM Profiles and Discovery Module
 
 # Guidance
 
-## overview
+## Overview
 
-The School's Web profiles system will shortly be be changing to a new system for editing and supplying data, and a new expanded profiles portal, the Elements Discover module
+The School's Web profiles system will shortly be be changing to a new system for editing and supplying data, and a new expanded profiles portal, the Elements Discovery module
 
 
 ### Gateway v Discovery
@@ -16,7 +16,7 @@ The existing Gateway system for editing profiles will be retired, and all parts 
 
 #### Continuity
 
-The existing People profiles will be retained as far as possible, to preserve the integrity of the School Website as a whole. This will include the existing list of Recent/Favourite Publications
+The existing People profiles will be retained as far as possible, to preserve the integrity of the School Website as a whole. They will continue to be updated, but now from data in Elements.
 
 
 #### Link to More Publications
@@ -42,6 +42,11 @@ All profiles will depend on having a active account on Elements. Accounts become
 
 
 ### Academic
+
+#### Current Staff
+
+Currently employed staff will have a Profile set to Public by default. Subsequent new staff profiles will be set to Internal only, to allow staff time to edit their details and add Publications, Grants and Activites.
+
 
 #### Emeritus
 
@@ -97,7 +102,8 @@ Individual entries and objects can be set to Internal if you wish them to appear
 
 ## Profile
 
-Much of this will be familiar from the CV Template
+Much of this will be familiar from the CV Template:
+
 
 
 - Employment- LSHTM appointments
@@ -134,12 +140,12 @@ Videos, but Youtube only, unfortunately
 
 ### Favourites
 
-You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile,
+You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Favourites will appear first, but you can switch to Most Recent First
 
 
 ### Privacy
 
-You can hide Publications from your profile by marking your relationship as
+You can hide Publications from your profile by marking your relationship as Internal
 
 
 #### Internal
@@ -233,7 +239,7 @@ Grants held by the MRC Units
 Nominal grants, Public Engagement grants,  disbursements from large infrastructure awards such as GCRF, etc
 
 
-## Professional
+## Professional Activities
 
 ### Confidentiality
 
@@ -259,15 +265,65 @@ be sure not to put anybody's personal data when listing activities such as revie
 These local activities will not be published to your profile by default. You may choose to make individual items public
 
 
-## Teaching
+#### LSHTM Leadership
+
+#### LSHTM Citizenship
+
+## Teaching Activities
 
 ### Teaching Summary
 
-### Research Degree Supervision
+Free-text field to describe your involvement in Teaching and Learning
+
+
+### Research Degree Supervision [Under Construction]
+
+Either added manually, or drawn from SITS Registry database [??]
+
 
 ### Teaching Feed (under construction)
 
+We plan to draw data from the new Teaching Load and Allocation database, once it is running
+
+
 ## Labels
+
+Users should edit their labels in Elements under the existing five label schemes.
+
+- Research Areas
+
+- Disciplines
+
+- Diseases and Conditions
+
+- Countries
+
+- Regions
+
+
+
+
+
+These will be automatically combined by Discovery into two broader label schemes for searching and filtering profiles in the new portal:
+
+- Topics & Disciplines
+
+- Regions & Countries
+
+
+
+Users are encouraged to focus on their main specialisms rather than signalling their breadth of interests by ticking dozens of labels.
+
+
+### Vocabulary updates
+
+The controlled vocabularies for these labels are under review, but revisions will not be available in time for the launch of the new profiles. Further announcements will follow.
+
+
+## Research Centres
+
+There will be a  menu in Discovery showing the School Research Centres. Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
+
 
 # Timeline
 
@@ -276,6 +332,10 @@ These local activities will not be published to your profile by default. You may
 ### enable DNS
 
 ### enable global access
+
+## Clear out Labels
+
+## Set PSP to
 
 ## Pilot
 
@@ -288,6 +348,10 @@ These local activities will not be published to your profile by default. You may
 ### August 2023
 
 ## Monitor
+
+### Profile Completeness Reports
+
+### Who will monitor and chase up?
 
 ## Remind
 
@@ -304,3 +368,13 @@ These local activities will not be published to your profile by default. You may
 ## Videos??
 
 ## Drop-ins
+
+## ServiceDesk
+
+### KnowledgeBase Items
+
+### Guide for 1st-line support staff
+
+### Categories for Queries
+
+### Who fields 2nd-line?
