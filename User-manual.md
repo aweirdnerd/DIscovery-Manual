@@ -182,8 +182,10 @@ The Principal Investigator is normally linked automatically based on the name he
 
 #### Adding Co-investigators
 
-You should generally only add yourself as C0-I or Co-PI if you are known to the funder in that capacity
+You should generally only add yourself as Co-I or Co-PI if you are known to the funder in that capacity
 
+
+#### How to Link to Grant
 
 ### Modifying Grants
 
@@ -236,7 +238,7 @@ Grants held by the MRC Units
 
 #### Other LSHTM
 
-Nominal grants, Public Engagement grants,  disbursements from large infrastructure awards such as GCRF, etc
+Internal grants and fellowships, Public Engagement grants,  disbursements from institutional block grants.
 
 
 ## Professional Activities

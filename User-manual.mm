@@ -462,17 +462,18 @@
 </node>
 <node TEXT="Photo" ID="ID_587800223" CREATED="1684332070948" MODIFIED="1684844135070"/>
 <node TEXT="Publications" ID="ID_1017685418" CREATED="1684309439194" MODIFIED="1684844135070" VGAP_QUANTITY="3 pt">
-<node TEXT="Favourites" ID="ID_1466438706" CREATED="1684310179320" MODIFIED="1684844135070"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Favourites" ID="ID_1466438706" CREATED="1684310179320" MODIFIED="1684846832894"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile,
+      You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Favourites will appear first, but you can switch to Most Recent First
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node TEXT="Privacy" ID="ID_1278581460" CREATED="1684401988442" MODIFIED="1684844135071"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -560,18 +561,20 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Adding Co-investigators" ID="ID_1495374371" CREATED="1684404382696" MODIFIED="1684844135072"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Adding Co-investigators" ID="ID_1495374371" CREATED="1684404382696" MODIFIED="1684852033877"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      You should generally only add yourself as C0-I or Co-PI if you are known to the funder in that capacity
+      You should generally only add yourself as Co-I or Co-PI if you are known to the funder in that capacity
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
+<node TEXT="How to Link to Grant" ID="ID_1314435297" CREATED="1684847217377" MODIFIED="1684847256386"/>
 </node>
 <node TEXT="Modifying Grants" ID="ID_1830567552" CREATED="1684309799346" MODIFIED="1684844135072"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -682,17 +685,18 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Other LSHTM" ID="ID_1519948168" CREATED="1684311533579" MODIFIED="1684844135073"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Other LSHTM" ID="ID_1519948168" CREATED="1684311533579" MODIFIED="1684852423195"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      Nominal grants, Public Engagement grants,&#xa0;&#xa0;disbursements from large infrastructure awards such as GCRF, etc
+      Internal grants and fellowships, Public Engagement grants,&#xa0;&#xa0;disbursements from institutional block grants.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>

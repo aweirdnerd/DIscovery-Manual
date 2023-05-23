@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application 
+			progid="Word.Document"
+		?><w:wordDocument xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <o:DocumentProperties>
+        <o:Title>Discovery Module User Manual for Pilot</o:Title>
+    </o:DocumentProperties>
+    <w:styles>
+        <w:versionOfBuiltInStylenames w:val="4"/>
+        <w:latentStyles w:defLockedState="off" w:latentStyleCount="156"/>
+        <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+            <w:name w:val="Normal"/>
+            <w:rsid w:val="00831C9D"/>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:sz w:val="24"/>
+                <w:sz-cs w:val="24"/>
+                <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading1">
+            <w:name w:val="heading 1"/>
+            <wx:uiName wx:val="Heading 1"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="0"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:kern w:val="32"/>
+                <w:sz w:val="32"/>
+                <w:sz-cs w:val="32"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading2">
+            <w:name w:val="heading 2"/>
+            <wx:uiName wx:val="Heading 2"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="1"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:i/>
+                <w:i-cs/>
+                <w:sz w:val="28"/>
+                <w:sz-cs w:val="28"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading3">
+            <w:name w:val="heading 3"/>
+            <wx:uiName wx:val="Heading 3"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading3"/>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="2"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:sz w:val="26"/>
+                <w:sz-cs w:val="26"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading4">
+            <w:name w:val="heading 4"/>
+            <wx:uiName wx:val="Heading 4"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading4"/>
+                <w:keepNext/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="3"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:sz w:val="28"/>
+                <w:sz-cs w:val="28"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading5">
+            <w:name w:val="heading 5"/>
+            <wx:uiName wx:val="Heading 5"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="4"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:i/>
+                <w:i-cs/>
+                <w:sz w:val="26"/>
+                <w:sz-cs w:val="26"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading6">
+            <w:name w:val="heading 6"/>
+            <wx:uiName wx:val="Heading 6"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading6"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="5"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:sz w:val="22"/>
+                <w:sz-cs w:val="22"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading7">
+            <w:name w:val="heading 7"/>
+            <wx:uiName wx:val="Heading 7"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading7"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="6"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading8">
+            <w:name w:val="heading 8"/>
+            <wx:uiName wx:val="Heading 8"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading8"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="7"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+                <w:i/>
+                <w:i-cs/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Heading9">
+            <w:name w:val="heading 9"/>
+            <wx:uiName wx:val="Heading 9"/>
+            <w:basedOn w:val="Normal"/>
+            <w:next w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Heading9"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:outlineLvl w:val="8"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:sz w:val="22"/>
+                <w:sz-cs w:val="22"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+            <w:name w:val="Default Paragraph Font"/>
+            <w:semiHidden/>
+        </w:style>
+        <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+            <w:name w:val="Normal Table"/>
+            <wx:uiName wx:val="Table Normal"/>
+            <w:semiHidden/>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+            </w:rPr>
+            <w:tblPr>
+                <w:tblInd w:w="0" w:type="dxa"/>
+                <w:tblCellMar>
+                    <w:top w:w="0" w:type="dxa"/>
+                    <w:left w:w="108" w:type="dxa"/>
+                    <w:bottom w:w="0" w:type="dxa"/>
+                    <w:right w:w="108" w:type="dxa"/>
+                </w:tblCellMar>
+            </w:tblPr>
+        </w:style>
+        <w:style w:type="list" w:default="on" w:styleId="NoList">
+            <w:name w:val="No List"/>
+            <w:semiHidden/>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Title">
+            <w:name w:val="Title"/>
+            <w:basedOn w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="Title"/>
+                <w:spacing w:before="240" w:after="60"/>
+                <w:jc w:val="center"/>
+                <w:outlineLvl w:val="0"/>
+            </w:pPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial"/>
+                <wx:font wx:val="Arial"/>
+                <w:b/>
+                <w:b-cs/>
+                <w:kern w:val="28"/>
+                <w:sz w:val="32"/>
+                <w:sz-cs w:val="32"/>
+            </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="BodyText">
+            <w:name w:val="Body Text"/>
+            <w:basedOn w:val="Normal"/>
+            <w:rsid w:val="00BA7540"/>
+            <w:pPr>
+                <w:pStyle w:val="BodyText"/>
+                <w:spacing w:after="120"/>
+            </w:pPr>
+            <w:rPr>
+                <wx:font wx:val="Times New Roman"/>
+            </w:rPr>
+        </w:style>
+    </w:styles>
+    <w:body>
+        <wx:sect>
+            
+            <wx:sub-section>
+                <w:p>
+                    <w:pPr>
+                        <w:pStyle w:val="Title"/>
+                    </w:pPr>
+                    <w:r>
+                        <w:t>Discovery Module User Manual for Pilot</w:t>
+                    </w:r>
+                </w:p>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>Guidance</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>overview</w:t>
+                            </w:r>
+                        </w:p>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="BodyText"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>
+    
+      The School's Web profiles system will shortly be be changing to a new system for editing and supplying data.
+    
+  </w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Gateway v Discovery</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      The existing Gateway system for editing profiles will be retired, and all parts of the profile will be drawn from Elements, the School's Current Research Information System.
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Legacy profiles</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Continuity</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      The existing People profiles will be retained as far as possible, to preserve the integrity of the School Website as a whole. This will include the existing list of Recent/Favourite Publications
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Link to More Publications</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Currently the 'More Publications' link leads to a partial list of Publications, those that have been deposited as full-text in Research Online. In future this link will lead to a new expanded Profiles portal, the Elements Discovery Module, https://profiles.lshtm.ac.uk/
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Discovery Profiles</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Broader profile</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      As well as a full publications list, the Discovery portal will showcase Grants, Professional Activities, and eventually, Teaching Activities
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Instant updates</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Discovery profiles synchronize with Elements in real-time, so edits you make in Elements will appear in Discovery in 2-3 minutes.
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Coverage</w:t>
+                            </w:r>
+                        </w:p>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="BodyText"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>
+    
+      All profiles will depend on having a active account on Elements. Accounts become inactive immediately when employment or registration finishes
+    
+  </w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Academic</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Emeritus</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Staff who are still active but no longer hold a contract of employment: accounts can be re-activated on request
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Distance Learning Tutors</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      DL Tutors are not currently added automatically to Elements, but this is under review
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Research Students</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Professional Support</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      All PSP staff have Elements accounts
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>MRC Units</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      We hope to have all Academic staff from the Units set up in ELements shortly
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Honorary</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      Honorary and Visiting staff accounts can be set-up on request. Former staff can be re-enabled as Honorary
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Privacy</w:t>
+                            </w:r>
+                        </w:p>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="BodyText"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>
+    
+      Elements has a Profile privacy setting that will determine whether the user's profile will be displayed in Discovery, and the existing web profiles.
+    
+  </w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Current users public</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      All current Elements users will be set to Public by default. [This may be reviewed for PSP staff]
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Eprints warning</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      It is necessary to make all current users Public because this setting also affects the flow of data to Research Online. If you set an existing researcher to Internal, their authorship links will  disappear from all Journal Articles in Eprints, and their Author page will shrink or disappear entirely
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>New users</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      Once the system is launched, new user accounts will be set to Internal by default, so that they can edit their profiles before making them Public. Or not.
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Object Privacy</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      Individual entries and objects can be set to Internal if you wish them to appear in your CV template but not on your public profile
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Profile</w:t>
+                            </w:r>
+                        </w:p>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="BodyText"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>
+    
+      Much of this will be familiar from the CV Template
+    
+  </w:t>
+                            </w:r>
+                        </w:p>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="BodyText"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>
+    
+      
+        Employment
+
+        
+          
+            LSHTM appointments
+          
+          
+            Other Academic Appointments
+          
+          
+            Non-academic appointments
+          
+        
+      
+      
+        Degrees
+      
+      
+        Postgraduate Training
+      
+      
+        Certifications
+      
+      
+        Addresses
+      
+      
+        Phone numbers
+      
+      
+        Email addresses
+      
+      
+        Language Competencies
+      
+    
+  </w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Bio</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Web addresses</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      These appear in a sidebar
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Media</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      Videos, but Youtube only, unfortunately
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Photo</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Publications</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Favourites</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile,
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Privacy</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      You can hide Publications from your profile by marking your relationship as
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Internal</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      This will also remove them from your Author page on Research Online, though they will still be listed under year or other authors. Your name will not be highlighted in the author list
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Private</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      This will also remove it from your CV template
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Sub-types</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      The listing will not distinguish between Journal Articles and Editorial/Commentary - that distinction is unique to the CV template
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Grants</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Research Interests</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      A free-text summary of your research interests appears on the Grants page
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Grants from Agresso</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      Research and Consultancy grants held by the School are imported into Elements once they are activated. Awarded grants still under contract negotiation will not appear. Nominal Grants are not imported
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Linking to Grants</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      The Principal Investigator is normally linked automatically based on the name held in Agresso. Sometimes this is out of date; fellowships may show the sponsor, not the recipient.
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Adding Co-investigators</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      You should generally only add yourself as C0-I or Co-PI if you are known to the funder in that capacity
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Modifying Grants</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      If you are linked to a Grant you are able to edit it, by adding a manual record
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Add Manual Record</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Only these fields are displayed in Discovery
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Title</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Titles as set in Agresso may not be very informative
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Description</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      This free-text field allows you to include more information about the project, such as abstract, value, collaborators, Ultimate Funder, etc.
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Funder</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      The Funder field in Agresso contains either the Ultimate Funder, or the Lead Institution in cases where LSHTM is a sub-contractor
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>URL</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Link to funders award page, or project website
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Start Date</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Normal"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>End Date</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Adding grants</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      There are other Grant types that you can add to cover those not fed from Agresso
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>External</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Current or historic grants held at other institutions
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>MRC</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Grants held by the MRC Units
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Other LSHTM</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="BodyText"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>
+    
+      Nominal grants, Public Engagement grants,  disbursements from large infrastructure awards such as GCRF, etc
+    
+  </w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Professional</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Confidentiality</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      be sure not to put anybody's personal data when listing activities such as reviewing grants, or mock interviews
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>External</w:t>
+                                </w:r>
+                            </w:p>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Distinctions</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Learned Societies</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Funders roles</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Journal Roles</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Committees</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                            <wx:sub-section>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:pStyle w:val="Heading4"/>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:t>Other[???]</w:t>
+                                    </w:r>
+                                </w:p>
+                            </wx:sub-section>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Internal</w:t>
+                                </w:r>
+                            </w:p>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="BodyText"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>
+    
+      These local activities will not be published to your profile by default. You may choose to make individual items public
+    
+  </w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Teaching</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Teaching Summary</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Research Degree Supervision</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>Teaching Feed (under construction)</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Labels</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                </wx:sub-section>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>Timeline</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>enable URL</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>enable DNS</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>enable global access</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Pilot</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>June 2023</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Revise</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Announce</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>August 2023</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Monitor</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Remind</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Go Live</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>September 2023</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                </wx:sub-section>
+                <wx:sub-section>
+                    <w:p>
+                        <w:pPr>
+                            <w:pStyle w:val="Heading1"/>
+                        </w:pPr>
+                        <w:r>
+                            <w:t>Support</w:t>
+                        </w:r>
+                    </w:p>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Documentation</w:t>
+                            </w:r>
+                        </w:p>
+                        <wx:sub-section>
+                            <w:p>
+                                <w:pPr>
+                                    <w:pStyle w:val="Heading3"/>
+                                </w:pPr>
+                                <w:r>
+                                    <w:t>What Goes Where</w:t>
+                                </w:r>
+                            </w:p>
+                        </wx:sub-section>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Videos??</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                    <wx:sub-section>
+                        <w:p>
+                            <w:pPr>
+                                <w:pStyle w:val="Heading2"/>
+                            </w:pPr>
+                            <w:r>
+                                <w:t>Drop-ins</w:t>
+                            </w:r>
+                        </w:p>
+                    </wx:sub-section>
+                </wx:sub-section>
+            </wx:sub-section>
+            
+        </wx:sect>
+    </w:body>
+</w:wordDocument>
