@@ -714,12 +714,84 @@
 </html></richcontent>
 </node>
 <node TEXT="External" ID="ID_1529247783" CREATED="1684309461695" MODIFIED="1684844135073">
-<node TEXT="Distinctions" ID="ID_252630736" CREATED="1684309849938" MODIFIED="1684844135073"/>
-<node TEXT="Learned Societies" ID="ID_484289986" CREATED="1684309857441" MODIFIED="1684844135074"/>
-<node TEXT="Funders roles" ID="ID_127052482" CREATED="1684309866802" MODIFIED="1684844135074"/>
-<node TEXT="Journal Roles" ID="ID_949991032" CREATED="1684309876938" MODIFIED="1684844135074"/>
-<node TEXT="Committees" ID="ID_879048924" CREATED="1684309885600" MODIFIED="1684844135074"/>
-<node TEXT="Other[???]" ID="ID_1363309235" CREATED="1684309892823" MODIFIED="1684844135074"/>
+<node TEXT="Distinctions" ID="ID_252630736" CREATED="1684309849938" MODIFIED="1684917310296"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Prizes, medals, Honours
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Learned Societies" ID="ID_484289986" CREATED="1684309857441" MODIFIED="1684917337160"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Membership, leadership, offices held
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Funders roles" ID="ID_127052482" CREATED="1684309866802" MODIFIED="1684917385024"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Advisory, review, board member, etc
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Journal Roles" ID="ID_949991032" CREATED="1684309876938" MODIFIED="1684917435744"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Editor, peer review
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Committees" ID="ID_879048924" CREATED="1684309885600" MODIFIED="1684917551434"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Any activities not covered by the categories above, or by Publications or Grants
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Other[???]" ID="ID_1363309235" CREATED="1684309892823" MODIFIED="1684917598510"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      TBD a more general catch-all category??
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Internal" ID="ID_593785719" CREATED="1684417200195" MODIFIED="1684844135074"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -732,8 +804,32 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="LSHTM Leadership" ID="ID_1867347351" CREATED="1684835913838" MODIFIED="1684844135074"/>
-<node TEXT="LSHTM Citizenship" ID="ID_429198291" CREATED="1684835923963" MODIFIED="1684844135074"/>
+<node TEXT="LSHTM Leadership" ID="ID_1867347351" CREATED="1684835913838" MODIFIED="1684917059270"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Faculty Deans, Dept Heads, Centre Directors
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="LSHTM Citizenship" ID="ID_429198291" CREATED="1684835923963" MODIFIED="1684917281793"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Standing Committees, Working parties, Welfare roles, voluntary posts, Union officers, mentoring, etc
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="Teaching Activities" FOLDED="true" ID="ID_9844045" CREATED="1684309479436" MODIFIED="1684844135074">
@@ -834,17 +930,70 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Research Centres" ID="ID_1837868349" CREATED="1684830329082" MODIFIED="1684844135076"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Research Centres" ID="ID_1837868349" CREATED="1684830329082" MODIFIED="1684916412414"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      There will be a&#xa0;&#xa0;menu in Discovery showing the School Research Centres. Users may link themselves to Centres via Elements - Menu -My Profile - Projects - &lt;paper-clip icon&gt; Add Project Relationship
+      There is a&#xa0;&#xa0;menu on the Discovery Search page showing the School Research Centres.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node TEXT="Linking to Research Centres" ID="ID_1232255195" CREATED="1684916450733" MODIFIED="1684916478069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#xa0;Users may link themselves to Centres via Elements - Menu -My Profile - Projects - &lt;paper-clip icon&gt; Add Project Relationship
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="Departments" ID="ID_468624942" CREATED="1684916478633" MODIFIED="1684916689182"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      There is a Departments menu on the Search Page. This is based on the Department that is recorded in the HR System. If this is incorrect, please contact HR
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Research Students" ID="ID_345644942" CREATED="1684916690016" MODIFIED="1684916742671"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      RD students are linked to their faculty, not a department
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="PS Services" ID="ID_715203186" CREATED="1684916768296" MODIFIED="1684916972010"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Some PS service units are merged into a general heading of Professional Support
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="Timeline" FOLDED="true" POSITION="bottom_or_right" ID="ID_1624495747" CREATED="1684309401124" MODIFIED="1684844135076">

@@ -252,15 +252,33 @@ be sure not to put anybody's personal data when listing activities such as revie
 
 #### Distinctions
 
+Prizes, medals, Honours
+
+
 #### Learned Societies
+
+Membership, leadership, offices held
+
 
 #### Funders roles
 
+Advisory, review, board member, etc
+
+
 #### Journal Roles
+
+Editor, peer review
+
 
 #### Committees
 
+Any activities not covered by the categories above, or by Publications or Grants
+
+
 #### Other[???]
+
+TBD a more general catch-all category??
+
 
 ### Internal
 
@@ -269,7 +287,13 @@ These local activities will not be published to your profile by default. You may
 
 #### LSHTM Leadership
 
+Faculty Deans, Dept Heads, Centre Directors
+
+
 #### LSHTM Citizenship
+
+Standing Committees, Working parties, Welfare roles, voluntary posts, Union officers, mentoring, etc
+
 
 ## Teaching Activities
 
@@ -324,7 +348,27 @@ The controlled vocabularies for these labels are under review, but revisions wil
 
 ## Research Centres
 
-There will be a  menu in Discovery showing the School Research Centres. Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
+There is a  menu on the Discovery Search page showing the School Research Centres.
+
+
+### Linking to Research Centres
+
+ Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
+
+
+## Departments
+
+There is a Departments menu on the Search Page. This is based on the Department that is recorded in the HR System. If this is incorrect, please contact HR
+
+
+### Research Students
+
+RD students are linked to their faculty, not a department
+
+
+### PS Services
+
+Some PS service units are merged into a general heading of Professional Support
 
 
 # Timeline
