@@ -1,6 +1,6 @@
 <map version="freeplane 1.11.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="LSHTM Profiles and Discovery Module" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1684844135066" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FLOW"><hook NAME="MapStyle" background="#d6e8e8" zoom="1.5">
+<node TEXT="LSHTM Profiles and Discovery Module" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1684844135066" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FLOW"><hook NAME="MapStyle" background="#d6e8e8">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_sky_element_template.mm" fit_to_viewport="false" allow_compact_layout="true"/>
 
 <map_styles>
@@ -434,6 +434,19 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node TEXT="Name" POSITION="bottom_or_right" ID="ID_1157327797" CREATED="1684919563406" MODIFIED="1684920167908"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Your name as recorded in HR or Registry may differ from that on your earlier profile. You can adjust the name displayed via Elements - Menu - My Profile - Preferred Name. If you adjust this to match your existing Web Profile, internal and external links to that will continue to work. Searches for your name will also respond to your 'Known as' alias in HR, and both your Preferred and HR names. Your new profile URL includes your Elements User-ID, so will always be unique regardless of name-clashes
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node TEXT="Web addresses" POSITION="bottom_or_right" ID="ID_458256716" CREATED="1684309610636" MODIFIED="1684844135070"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
