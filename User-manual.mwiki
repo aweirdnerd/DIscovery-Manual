@@ -84,7 +84,7 @@ Eprints warning
 
 ''It is necessary to make all current users Public because this setting also affects the flow of data to Research Online. If you set an existing researcher to Internal, their authorship links will  disappear from all Journal Articles in Eprints, and their Author page will shrink or disappear entirely
 
-New users
+New users default to Internal
 
 
 ''Once the system is launched, new user accounts will be set to Internal by default, so that they can edit their profiles before making them Public. Or not.
@@ -111,15 +111,15 @@ Object Privacy
 *Email addresses
 *Language Competencies
 
-Bio
-
-
-''A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
-
 Name
 
 
 ''Your name as recorded in HR or Registry may differ from that on your earlier profile. You can adjust the name displayed via Elements - Menu - My Profile - Preferred Name. If you adjust this to match your existing Web Profile, internal and external links to that will continue to work. Searches for your name will also respond to your 'Known as' alias in HR, and both your Preferred and HR names. Your new profile URL includes your Elements User-ID, so will always be unique regardless of name-clashes
+
+Bio
+
+
+''A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
 
 Web addresses
 
@@ -137,18 +137,20 @@ Photo
 Favourites
 
 
-''You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Favourites will appear first, but you can switch to Most Recent First
+''You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Publications will appear
+
+Most Recent First, but you can switch to Favourites
 
 ===Privacy===
 
 ''You can hide Publications from your profile by marking your relationship as Internal
 
-Internal
+Publication Privacy=Internal
 
 
 ''This will also remove them from your Author page on Research Online, though they will still be listed under year or other authors. Your name will not be highlighted in the author list
 
-Private
+Publication Privacy=Private
 
 
 ''This will also remove it from your CV template
@@ -258,10 +260,11 @@ Journal Roles
 
 ''Editor, peer review
 
-Committees
-
+====Committees====
 
 ''Any activities not covered by the categories above, or by Publications or Grants
+
+Rename to 'Other Bodies or Roles' ??
 
 Other[???]
 
@@ -331,15 +334,6 @@ Vocabulary updates
 
 ''The controlled vocabularies for these labels are under review, but revisions will not be available in time for the launch of the new profiles. Further announcements will follow.
 
-==Research Centres==
-
-''There is a  menu on the Discovery Search page showing the School Research Centres.
-
-Linking to Research Centres
-
-
-'' Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
-
 ==Departments==
 
 ''There is a Departments menu on the Search Page. This is based on the Department that is recorded in the HR System. If this is incorrect, please contact HR
@@ -353,6 +347,15 @@ PS Services
 
 
 ''Some PS service units are merged into a general heading of Professional Support
+
+==Research Centres==
+
+''There is a  menu on the Discovery Search page showing the School Research Centres.
+
+Linking to Research Centres
+
+
+'' Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
 
 =Timeline=
 ==enable URL==

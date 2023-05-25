@@ -1,7 +1,7 @@
 <map version="freeplane 1.11.1">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="LSHTM Profiles and Discovery Module" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1684844135066" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_FLOW"><hook NAME="MapStyle" background="#d6e8e8">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_sky_element_template.mm" fit_to_viewport="false" allow_compact_layout="true"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_sky_element_template.mm" allow_compact_layout="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -139,9 +139,10 @@
                 <NodeOnSlide nodeId="ID_1697807013"/>
             </NodesOnSlide>
         </slide>
-        <slide NAME="Research Centres" showsDescendants="true" showsOnlySpecificNodes="true" placedNodeId="" placedNodePosition="LEFT" zoom="0.826">
+        <slide NAME="Departments and Research Centres" showsDescendants="true" showsOnlySpecificNodes="true" placedNodeId="" placedNodePosition="LEFT" zoom="0.826">
             <NodesOnSlide>
                 <NodeOnSlide nodeId="ID_1837868349"/>
+                <NodeOnSlide nodeId="ID_468624942"/>
             </NodesOnSlide>
         </slide>
     </presentation>
@@ -245,8 +246,7 @@
       Currently employed staff will have a Profile set to Public by default. Subsequent new staff profiles will be set to Internal only, to allow staff time to edit their details and add Publications, Grants and Activites.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Emeritus" ID="ID_251769000" CREATED="1684399669852" MODIFIED="1684844135068"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -283,8 +283,7 @@
       All current RD students have an ELements account
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Professional Support" ID="ID_142044171" CREATED="1684399614435" MODIFIED="1684844135068"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -358,7 +357,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="New users" ID="ID_495779320" CREATED="1684399198790" MODIFIED="1684844135069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="New users default to Internal" ID="ID_495779320" CREATED="1684399198790" MODIFIED="1684939666555"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -435,6 +434,18 @@
     </ul>
   </body>
 </html></richcontent>
+<node TEXT="Name" POSITION="bottom_or_right" ID="ID_1157327797" CREATED="1684919563406" MODIFIED="1684920167908"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Your name as recorded in HR or Registry may differ from that on your earlier profile. You can adjust the name displayed via Elements - Menu - My Profile - Preferred Name. If you adjust this to match your existing Web Profile, internal and external links to that will continue to work. Searches for your name will also respond to your 'Known as' alias in HR, and both your Preferred and HR names. Your new profile URL includes your Elements User-ID, so will always be unique regardless of name-clashes
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node TEXT="Bio" POSITION="bottom_or_right" ID="ID_1152055018" CREATED="1684309414152" MODIFIED="1684844135070"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -446,19 +457,6 @@
     </p>
   </body>
 </html></richcontent>
-</node>
-<node TEXT="Name" POSITION="bottom_or_right" ID="ID_1157327797" CREATED="1684919563406" MODIFIED="1684920167908"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Your name as recorded in HR or Registry may differ from that on your earlier profile. You can adjust the name displayed via Elements - Menu - My Profile - Preferred Name. If you adjust this to match your existing Web Profile, internal and external links to that will continue to work. Searches for your name will also respond to your 'Known as' alias in HR, and both your Preferred and HR names. Your new profile URL includes your Elements User-ID, so will always be unique regardless of name-clashes
-    </p>
-  </body>
-</html>
-</richcontent>
 </node>
 <node TEXT="Web addresses" POSITION="bottom_or_right" ID="ID_458256716" CREATED="1684309610636" MODIFIED="1684844135070"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -487,14 +485,17 @@
 </node>
 <node TEXT="Photo" ID="ID_587800223" CREATED="1684332070948" MODIFIED="1684844135070"/>
 <node TEXT="Publications" ID="ID_1017685418" CREATED="1684309439194" MODIFIED="1684844135070" VGAP_QUANTITY="3 pt">
-<node TEXT="Favourites" ID="ID_1466438706" CREATED="1684310179320" MODIFIED="1684846832894"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Favourites" ID="ID_1466438706" CREATED="1684310179320" MODIFIED="1684939825014"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Favourites will appear first, but you can switch to Most Recent First
+      You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Publications will appear
+    </p>
+    <p>
+      Most Recent First, but you can switch to Favourites
     </p>
   </body>
 </html>
@@ -510,9 +511,8 @@
       You can hide Publications from your profile by marking your relationship as Internal
     </p>
   </body>
-</html>
-</richcontent>
-<node TEXT="Internal" ID="ID_1774589792" CREATED="1684402151718" MODIFIED="1684844135071"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+</html></richcontent>
+<node TEXT="Publication Privacy=Internal" ID="ID_1774589792" CREATED="1684402151718" MODIFIED="1684939859397"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -524,7 +524,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Private" ID="ID_186974840" CREATED="1684402252869" MODIFIED="1684844135071"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Publication Privacy=Private" ID="ID_186974840" CREATED="1684402252869" MODIFIED="1684939870435"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -596,8 +596,7 @@
       You should generally only add yourself as Co-I or Co-PI if you are known to the funder in that capacity
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="How to Link to Grant" ID="ID_1314435297" CREATED="1684847217377" MODIFIED="1684847256386"/>
 </node>
@@ -720,8 +719,7 @@
       Internal grants and fellowships, Public Engagement grants,&#xa0;&#xa0;disbursements from institutional block grants.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -749,8 +747,7 @@
       Prizes, medals, Honours
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Learned Societies" ID="ID_484289986" CREATED="1684309857441" MODIFIED="1684917337160"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -762,8 +759,7 @@
       Membership, leadership, offices held
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Funders roles" ID="ID_127052482" CREATED="1684309866802" MODIFIED="1684917385024"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -775,8 +771,7 @@
       Advisory, review, board member, etc
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Journal Roles" ID="ID_949991032" CREATED="1684309876938" MODIFIED="1684917435744"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -788,8 +783,7 @@
       Editor, peer review
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Committees" ID="ID_879048924" CREATED="1684309885600" MODIFIED="1684917551434"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -801,8 +795,8 @@
       Any activities not covered by the categories above, or by Publications or Grants
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<node TEXT="Rename to &apos;Other Bodies or Roles&apos; ??" ID="ID_849457276" CREATED="1684940370086" MODIFIED="1684940406590"/>
 </node>
 <node TEXT="Other[???]" ID="ID_1363309235" CREATED="1684309892823" MODIFIED="1684917598510"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -814,8 +808,7 @@
       TBD a more general catch-all category??
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Internal" ID="ID_593785719" CREATED="1684417200195" MODIFIED="1684844135074"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
@@ -839,8 +832,7 @@
       Faculty Deans, Dept Heads, Centre Directors
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="LSHTM Citizenship" ID="ID_429198291" CREATED="1684835923963" MODIFIED="1684917281793"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -852,8 +844,7 @@
       Standing Committees, Working parties, Welfare roles, voluntary posts, Union officers, mentoring, etc
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -955,33 +946,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Research Centres" ID="ID_1837868349" CREATED="1684830329082" MODIFIED="1684916412414"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      There is a&#xa0;&#xa0;menu on the Discovery Search page showing the School Research Centres.
-    </p>
-  </body>
-</html>
-</richcontent>
-<node TEXT="Linking to Research Centres" ID="ID_1232255195" CREATED="1684916450733" MODIFIED="1684916478069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &#xa0;Users may link themselves to Centres via Elements - Menu -My Profile - Projects - &lt;paper-clip icon&gt; Add Project Relationship
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Departments" ID="ID_468624942" CREATED="1684916478633" MODIFIED="1684916689182"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Departments" FOLDED="true" ID="ID_468624942" CREATED="1684916478633" MODIFIED="1684916689182"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -991,8 +956,7 @@
       There is a Departments menu on the Search Page. This is based on the Department that is recorded in the HR System. If this is incorrect, please contact HR
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Research Students" ID="ID_345644942" CREATED="1684916690016" MODIFIED="1684916742671"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -1003,8 +967,7 @@
       RD students are linked to their faculty, not a department
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="PS Services" ID="ID_715203186" CREATED="1684916768296" MODIFIED="1684916972010"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -1016,8 +979,31 @@
       Some PS service units are merged into a general heading of Professional Support
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Research Centres" ID="ID_1837868349" CREATED="1684830329082" MODIFIED="1684916412414"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      There is a&#xa0;&#xa0;menu on the Discovery Search page showing the School Research Centres.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Linking to Research Centres" ID="ID_1232255195" CREATED="1684916450733" MODIFIED="1684916478069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#xa0;Users may link themselves to Centres via Elements - Menu -My Profile - Projects - &lt;paper-clip icon&gt; Add Project Relationship
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 </node>
