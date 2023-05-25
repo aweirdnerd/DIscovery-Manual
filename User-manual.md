@@ -1,6 +1,82 @@
  LSHTM Profiles and Discovery Module
 
 # Guidance
+- [Guidance](#guidance)
+  - [Overview](#overview)
+    - [Gateway v Discovery](#gateway-v-discovery)
+    - [Legacy profiles](#legacy-profiles)
+      - [Continuity](#continuity)
+      - [Link to More Publications](#link-to-more-publications)
+    - [Discovery Profiles](#discovery-profiles)
+      - [Broader profile](#broader-profile)
+      - [Instant updates](#instant-updates)
+  - [Coverage](#coverage)
+    - [Academic](#academic)
+      - [Current Staff](#current-staff)
+      - [Emeritus](#emeritus)
+      - [Distance Learning Tutors](#distance-learning-tutors)
+    - [Research Students](#research-students)
+    - [Professional Support](#professional-support)
+    - [MRC Units](#mrc-units)
+    - [Honorary](#honorary)
+  - [Privacy](#privacy)
+    - [Current users public](#current-users-public)
+      - [Eprints warning](#eprints-warning)
+    - [New users](#new-users)
+    - [Object Privacy](#object-privacy)
+  - [Profile](#profile)
+    - [Bio](#bio)
+    - [Name](#name)
+    - [Web addresses](#web-addresses)
+    - [Media](#media)
+  - [Photo](#photo)
+  - [Publications](#publications)
+    - [Favourites](#favourites)
+    - [Privacy](#privacy-1)
+      - [Internal](#internal)
+      - [Private](#private)
+    - [Sub-types](#sub-types)
+  - [Grants](#grants)
+    - [Research Interests](#research-interests)
+    - [Grants from Agresso](#grants-from-agresso)
+    - [Linking to Grants](#linking-to-grants)
+      - [Adding Co-investigators](#adding-co-investigators)
+      - [How to Link to Grant](#how-to-link-to-grant)
+    - [Modifying Grants](#modifying-grants)
+      - [Add Manual Record](#add-manual-record)
+        - [Title](#title)
+        - [Description](#description)
+        - [Funder](#funder)
+        - [URL](#url)
+        - [Start Date](#start-date)
+        - [End Date](#end-date)
+    - [Adding grants](#adding-grants)
+      - [External](#external)
+      - [MRC](#mrc)
+      - [Other LSHTM](#other-lshtm)
+  - [Professional Activities](#professional-activities)
+    - [Confidentiality](#confidentiality)
+    - [External](#external-1)
+      - [Distinctions](#distinctions)
+      - [Learned Societies](#learned-societies)
+      - [Funders roles](#funders-roles)
+      - [Journal Roles](#journal-roles)
+      - [Committees](#committees)
+      - [Other\[???\]](#other)
+    - [Internal](#internal-1)
+      - [LSHTM Leadership](#lshtm-leadership)
+      - [LSHTM Citizenship](#lshtm-citizenship)
+  - [Teaching Activities](#teaching-activities)
+    - [Teaching Summary](#teaching-summary)
+    - [Research Degree Supervision \[Under Construction\]](#research-degree-supervision-under-construction)
+    - [Teaching Feed (under construction)](#teaching-feed-under-construction)
+  - [Labels](#labels)
+    - [Vocabulary updates](#vocabulary-updates)
+  - [Research Centres](#research-centres)
+    - [Linking to Research Centres](#linking-to-research-centres)
+  - [Departments](#departments)
+    - [Research Students](#research-students-1)
+    - [PS Services](#ps-services)
 
 ## Overview
 
@@ -375,57 +451,3 @@ RD students are linked to their faculty, not a department
 
 Some PS service units are merged into a general heading of Professional Support
 
-
-# Timeline
-
-## enable URL
-
-### enable DNS
-
-### enable global access
-
-## Clear out Labels
-
-## Set PSP to
-
-## Pilot
-
-### June 2023
-
-## Revise
-
-## Announce
-
-### August 2023
-
-## Monitor
-
-### Profile Completeness Reports
-
-### Who will monitor and chase up?
-
-## Remind
-
-## Go Live
-
-### September 2023
-
-# Support
-
-## Documentation
-
-### What Goes Where
-
-## Videos??
-
-## Drop-ins
-
-## ServiceDesk
-
-### KnowledgeBase Items
-
-### Guide for 1st-line support staff
-
-### Categories for Queries
-
-### Who fields 2nd-line?
