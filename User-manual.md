@@ -124,6 +124,11 @@ Much of this will be familiar from the CV Template:
 A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
 
 
+### Name
+
+Your name as recorded in HR or Registry may differ from that on your earlier profile. You can adjust the name displayed via Elements - Menu - My Profile - Preferred Name. If you adjust this to match your existing Web Profile, internal and external links to that will continue to work. Searches for your name will also respond to your 'Known as' alias in HR, and both your Preferred and HR names. Your new profile URL includes your Elements User-ID, so will always be unique regardless of name-clashes
+
+
 ### Web addresses
 
 These appear in a sidebar

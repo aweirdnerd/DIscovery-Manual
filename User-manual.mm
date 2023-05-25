@@ -273,7 +273,19 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Research Students" ID="ID_76538244" CREATED="1684399907184" MODIFIED="1684844135068"/>
+<node TEXT="Research Students" ID="ID_76538244" CREATED="1684399907184" MODIFIED="1684922938905"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      All current RD students have an ELements account
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node TEXT="Professional Support" ID="ID_142044171" CREATED="1684399614435" MODIFIED="1684844135068"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
