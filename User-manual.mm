@@ -148,17 +148,18 @@
     </presentation>
 </hook>
 <node TEXT="Guidance" POSITION="bottom_or_right" ID="ID_1060037075" CREATED="1684309379974" MODIFIED="1684844135066">
-<node TEXT="Overview" FOLDED="true" ID="ID_405799749" CREATED="1684311057180" MODIFIED="1684844135066"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Overview" ID="ID_405799749" CREATED="1684311057180" MODIFIED="1687856758627"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      The School's Web profiles system will shortly be be changing to a new system for editing and supplying data, and a new expanded profiles portal, the Elements Discovery module
+      The School's Web profiles system will shortly be be changing to a new platform for editing and supplying data, and a new expanded profiles portal, the Elements Discovery module
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node TEXT="Gateway v Discovery" ID="ID_1638924586" CREATED="1684311075338" MODIFIED="1684844135066"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -322,7 +323,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Privacy" FOLDED="true" ID="ID_952003682" CREATED="1684309433221" MODIFIED="1684844135069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Privacy" ID="ID_952003682" CREATED="1684309433221" MODIFIED="1684844135069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -333,14 +334,14 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Current users public" ID="ID_950205567" CREATED="1684310308122" MODIFIED="1684844135069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Current users public" ID="ID_950205567" CREATED="1684310308122" MODIFIED="1686814881411"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      All current Elements users will be set to Public by default. [This may be reviewed for PSP staff]
+      All current academic Elements users will be set to Public by default.&#xa0;&#xa0;PSP staff who have links to publications will also be set to Public. Other PSP staff profiles will default to Internal, but can opt to make them public. This will affect both sets of profiles.
     </p>
   </body>
 </html></richcontent>
@@ -483,9 +484,11 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Photo" ID="ID_587800223" CREATED="1684332070948" MODIFIED="1684844135070"/>
-<node TEXT="Publications" ID="ID_1017685418" CREATED="1684309439194" MODIFIED="1684844135070" VGAP_QUANTITY="3 pt">
-<node TEXT="Favourites" ID="ID_1466438706" CREATED="1684310179320" MODIFIED="1684939825014"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Photo" ID="ID_587800223" CREATED="1684332070948" MODIFIED="1684844135070">
+<node TEXT="You can add your photo via ELements - Edit Profile. Please use a square image of at least 400px X 400px" ID="ID_807794739" CREATED="1688632422107" MODIFIED="1688632507686"/>
+</node>
+<node TEXT="Publications" ID="ID_1017685418" CREATED="1684309439194" MODIFIED="1686725737276" VGAP_QUANTITY="3 pt">
+<node TEXT="Favourites" ID="ID_1466438706" CREATED="1684310179320" MODIFIED="1688632557719"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -495,24 +498,25 @@
       You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Publications will appear
     </p>
     <p>
-      Most Recent First, but you can switch to Favourites
+      Most Recent First, but you can switch to Favourites first when viewing
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-<node TEXT="Privacy" ID="ID_1278581460" CREATED="1684401988442" MODIFIED="1684844135071"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Privacy" ID="ID_1278581460" CREATED="1684401988442" MODIFIED="1688632578359"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      You can hide Publications from your profile by marking your relationship as Internal
+      You can hide Publications from your profile by marking your author relationship as Internal
     </p>
   </body>
-</html></richcontent>
-<node TEXT="Publication Privacy=Internal" ID="ID_1774589792" CREATED="1684402151718" MODIFIED="1684939859397"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+</html>
+</richcontent>
+<node TEXT="Publication Relationship  Privacy=Internal" ID="ID_1774589792" CREATED="1684402151718" MODIFIED="1688632616610"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -524,7 +528,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Publication Privacy=Private" ID="ID_186974840" CREATED="1684402252869" MODIFIED="1684939870435"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Publication Relationship Privacy=Private" ID="ID_186974840" CREATED="1684402252869" MODIFIED="1688632625383"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     

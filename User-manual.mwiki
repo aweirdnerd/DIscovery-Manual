@@ -2,7 +2,7 @@ LSHTM Profiles and Discovery Module
 =Guidance=
 ==Overview==
 
-''The School's Web profiles system will shortly be be changing to a new system for editing and supplying data, and a new expanded profiles portal, the Elements Discovery module
+''The School's Web profiles system will shortly be be changing to a new platform for editing and supplying data, and a new expanded profiles portal, the Elements Discovery module
 
 Gateway v Discovery
 
@@ -77,7 +77,7 @@ Honorary
 
 ===Current users public===
 
-''All current Elements users will be set to Public by default. [This may be reviewed for PSP staff]
+''All current academic Elements users will be set to Public by default.  PSP staff who have links to publications will also be set to Public. Other PSP staff profiles will default to Internal, but can opt to make them public. This will affect both sets of profiles.
 
 Eprints warning
 
@@ -131,7 +131,8 @@ Media
 
 ''Videos, but Youtube only, unfortunately
 
-Photo
+==Photo==
+You can add your photo via ELements - Edit Profile. Please use a square image of at least 400px X 400px
 
 ==Publications==
 Favourites
@@ -139,18 +140,18 @@ Favourites
 
 ''You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Publications will appear
 
-Most Recent First, but you can switch to Favourites
+Most Recent First, but you can switch to Favourites first when viewing
 
 ===Privacy===
 
-''You can hide Publications from your profile by marking your relationship as Internal
+''You can hide Publications from your profile by marking your author relationship as Internal
 
-Publication Privacy=Internal
+Publication Relationship Privacy=Internal
 
 
 ''This will also remove them from your Author page on Research Online, though they will still be listed under year or other authors. Your name will not be highlighted in the author list
 
-Publication Privacy=Private
+Publication Relationship Privacy=Private
 
 
 ''This will also remove it from your CV template

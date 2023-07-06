@@ -1,86 +1,10 @@
  LSHTM Profiles and Discovery Module
 
 # Guidance
-- [Guidance](#guidance)
-  - [Overview](#overview)
-    - [Gateway v Discovery](#gateway-v-discovery)
-    - [Legacy profiles](#legacy-profiles)
-      - [Continuity](#continuity)
-      - [Link to More Publications](#link-to-more-publications)
-    - [Discovery Profiles](#discovery-profiles)
-      - [Broader profile](#broader-profile)
-      - [Instant updates](#instant-updates)
-  - [Coverage](#coverage)
-    - [Academic](#academic)
-      - [Current Staff](#current-staff)
-      - [Emeritus](#emeritus)
-      - [Distance Learning Tutors](#distance-learning-tutors)
-    - [Research Students](#research-students)
-    - [Professional Support](#professional-support)
-    - [MRC Units](#mrc-units)
-    - [Honorary](#honorary)
-  - [Privacy](#privacy)
-    - [Current users public](#current-users-public)
-      - [Eprints warning](#eprints-warning)
-    - [New users](#new-users)
-    - [Object Privacy](#object-privacy)
-  - [Profile](#profile)
-    - [Bio](#bio)
-    - [Name](#name)
-    - [Web addresses](#web-addresses)
-    - [Media](#media)
-  - [Photo](#photo)
-  - [Publications](#publications)
-    - [Favourites](#favourites)
-    - [Privacy](#privacy-1)
-      - [Internal](#internal)
-      - [Private](#private)
-    - [Sub-types](#sub-types)
-  - [Grants](#grants)
-    - [Research Interests](#research-interests)
-    - [Grants from Agresso](#grants-from-agresso)
-    - [Linking to Grants](#linking-to-grants)
-      - [Adding Co-investigators](#adding-co-investigators)
-      - [How to Link to Grant](#how-to-link-to-grant)
-    - [Modifying Grants](#modifying-grants)
-      - [Add Manual Record](#add-manual-record)
-        - [Title](#title)
-        - [Description](#description)
-        - [Funder](#funder)
-        - [URL](#url)
-        - [Start Date](#start-date)
-        - [End Date](#end-date)
-    - [Adding grants](#adding-grants)
-      - [External](#external)
-      - [MRC](#mrc)
-      - [Other LSHTM](#other-lshtm)
-  - [Professional Activities](#professional-activities)
-    - [Confidentiality](#confidentiality)
-    - [External](#external-1)
-      - [Distinctions](#distinctions)
-      - [Learned Societies](#learned-societies)
-      - [Funders roles](#funders-roles)
-      - [Journal Roles](#journal-roles)
-      - [Committees](#committees)
-      - [Other\[???\]](#other)
-    - [Internal](#internal-1)
-      - [LSHTM Leadership](#lshtm-leadership)
-      - [LSHTM Citizenship](#lshtm-citizenship)
-  - [Teaching Activities](#teaching-activities)
-    - [Teaching Summary](#teaching-summary)
-    - [Research Degree Supervision \[Under Construction\]](#research-degree-supervision-under-construction)
-    - [Teaching Feed (under construction)](#teaching-feed-under-construction)
-  - [Labels](#labels)
-    - [Vocabulary updates](#vocabulary-updates)
-  - [Research Centres](#research-centres)
-    - [Linking to Research Centres](#linking-to-research-centres)
-  - [Departments](#departments)
-    - [Research Students](#research-students-1)
-    - [PS Services](#ps-services)
 
 ## Overview
 
-The School's Web profiles system will shortly be be changing to a new system for editing and supplying data, and a new expanded profiles portal, the Elements Discovery module
+The School's Web profiles system will shortly be be changing to a new platform for editing and supplying data, and a new expanded profiles portal, the Elements Discovery module
 
 
 ### Gateway v Discovery
@@ -136,6 +60,9 @@ DL Tutors are not currently added automatically to Elements, but this is under r
 
 ### Research Students
 
+All current RD students have an ELements account
+
+
 ### Professional Support
 
 All PSP staff have Elements accounts
@@ -158,7 +85,7 @@ Elements has a Profile privacy setting that will determine whether the user's pr
 
 ### Current users public
 
-All current Elements users will be set to Public by default. [This may be reviewed for PSP staff]
+All current academic Elements users will be set to Public by default.  PSP staff who have links to publications will also be set to Public. Other PSP staff profiles will default to Internal, but can opt to make them public. This will affect both sets of profiles.
 
 
 #### Eprints warning
@@ -166,7 +93,7 @@ All current Elements users will be set to Public by default. [This may be review
 It is necessary to make all current users Public because this setting also affects the flow of data to Research Online. If you set an existing researcher to Internal, their authorship links will  disappear from all Journal Articles in Eprints, and their Author page will shrink or disappear entirely
 
 
-### New users
+### New users default to Internal
 
 Once the system is launched, new user accounts will be set to Internal by default, so that they can edit their profiles before making them Public. Or not.
 
@@ -195,14 +122,14 @@ Much of this will be familiar from the CV Template:
 - Language Competencies
 
 
-### Bio
-
-A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
-
-
 ### Name
 
 Your name as recorded in HR or Registry may differ from that on your earlier profile. You can adjust the name displayed via Elements - Menu - My Profile - Preferred Name. If you adjust this to match your existing Web Profile, internal and external links to that will continue to work. Searches for your name will also respond to your 'Known as' alias in HR, and both your Preferred and HR names. Your new profile URL includes your Elements User-ID, so will always be unique regardless of name-clashes
+
+
+### Bio
+
+A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
 
 
 ### Web addresses
@@ -217,24 +144,28 @@ Videos, but Youtube only, unfortunately
 
 ## Photo
 
+### You can add your photo via ELements - Edit Profile. Please use a square image of at least 400px X 400px
+
 ## Publications
 
 ### Favourites
 
-You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Favourites will appear first, but you can switch to Most Recent First
+You can choose to mark some publications with a heart, as Selected/Favourites. These will be displayed as your selected publications in the website profiles. In the Discovery profile, Publications will appear
+
+Most Recent First, but you can switch to Favourites first when viewing
 
 
 ### Privacy
 
-You can hide Publications from your profile by marking your relationship as Internal
+You can hide Publications from your profile by marking your author relationship as Internal
 
 
-#### Internal
+#### Publication Relationship  Privacy=Internal
 
 This will also remove them from your Author page on Research Online, though they will still be listed under year or other authors. Your name will not be highlighted in the author list
 
 
-#### Private
+#### Publication Relationship Privacy=Private
 
 This will also remove it from your CV template
 
@@ -356,6 +287,8 @@ Editor, peer review
 Any activities not covered by the categories above, or by Publications or Grants
 
 
+##### Rename to 'Other Bodies or Roles' ??
+
 #### Other[???]
 
 TBD a more general catch-all category??
@@ -427,16 +360,6 @@ Users are encouraged to focus on their main specialisms rather than signalling t
 The controlled vocabularies for these labels are under review, but revisions will not be available in time for the launch of the new profiles. Further announcements will follow.
 
 
-## Research Centres
-
-There is a  menu on the Discovery Search page showing the School Research Centres.
-
-
-### Linking to Research Centres
-
- Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
-
-
 ## Departments
 
 There is a Departments menu on the Search Page. This is based on the Department that is recorded in the HR System. If this is incorrect, please contact HR
@@ -451,3 +374,67 @@ RD students are linked to their faculty, not a department
 
 Some PS service units are merged into a general heading of Professional Support
 
+
+## Research Centres
+
+There is a  menu on the Discovery Search page showing the School Research Centres.
+
+
+### Linking to Research Centres
+
+ Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
+
+
+# Timeline
+
+## enable URL
+
+### enable DNS
+
+### enable global access
+
+## Clear out Labels
+
+## Set PSP to
+
+## Pilot
+
+### June 2023
+
+## Revise
+
+## Announce
+
+### August 2023
+
+## Monitor
+
+### Profile Completeness Reports
+
+### Who will monitor and chase up?
+
+## Remind
+
+## Go Live
+
+### September 2023
+
+# Support
+
+## Documentation
+
+### What Goes Where
+
+## Videos??
+
+## Drop-ins
+
+## ServiceDesk
+
+### KnowledgeBase Items
+
+### Guide for 1st-line support staff
+
+### Categories for Queries
+
+### Who fields 2nd-line?
