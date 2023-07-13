@@ -225,17 +225,18 @@
 </node>
 </node>
 </node>
-<node TEXT="Coverage" FOLDED="true" ID="ID_1497400662" CREATED="1684398112697" MODIFIED="1684844135067"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Coverage" ID="ID_1497400662" CREATED="1684398112697" MODIFIED="1688725021019"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      All profiles will depend on having a active account on Elements. Accounts become inactive immediately when employment or registration finishes
+      All profiles will depend on having an active account on Elements. Accounts become inactive immediately when employment or registration finishes
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node TEXT="Academic" ID="ID_1127740694" CREATED="1684399602037" MODIFIED="1684844135067" VGAP_QUANTITY="3 pt">
 <node TEXT="Current Staff" ID="ID_290242885" CREATED="1684842217540" MODIFIED="1684844135068"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -274,41 +275,31 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Research Students" ID="ID_76538244" CREATED="1684399907184" MODIFIED="1684922938905"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Research Students" ID="ID_76538244" CREATED="1684399907184" MODIFIED="1688725025960"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      All current RD students have an ELements account
+      All current RD students have an Elements account
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node TEXT="Professional Support" ID="ID_142044171" CREATED="1684399614435" MODIFIED="1684844135068"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="MRC Units" ID="ID_1779491303" CREATED="1684399639387" MODIFIED="1688725038472"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      All PSP staff have Elements accounts
+      We hope to have all Academic staff from the Units set up in Elements shortly
     </p>
   </body>
-</html></richcontent>
-</node>
-<node TEXT="MRC Units" ID="ID_1779491303" CREATED="1684399639387" MODIFIED="1684844135068"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      We hope to have all Academic staff from the Units set up in ELements shortly
-    </p>
-  </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node TEXT="Honorary" ID="ID_735517903" CREATED="1684399645665" MODIFIED="1684844135068"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -322,6 +313,19 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Professional Support" ID="ID_142044171" CREATED="1684399614435" MODIFIED="1688634158632"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      All PSP staff have Elements accounts.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Privacy" ID="ID_952003682" CREATED="1684309433221" MODIFIED="1684844135069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
@@ -334,17 +338,18 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Current users public" ID="ID_950205567" CREATED="1684310308122" MODIFIED="1686814881411"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Current users default to public" ID="ID_950205567" CREATED="1684310308122" MODIFIED="1688725156799"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      All current academic Elements users will be set to Public by default.&#xa0;&#xa0;PSP staff who have links to publications will also be set to Public. Other PSP staff profiles will default to Internal, but can opt to make them public. This will affect both sets of profiles.
+      All current academic Elements users will be set to Public by default.&#xa0;&#xa0;PSP staff who have links to publications will also be set to Public. Other PSP staff profiles will default to Internal, but they can opt to make them public. This will affect both Discovery and Gateway profiles.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node TEXT="Eprints warning" LOCALIZED_STYLE_REF="styles.important" POSITION="bottom_or_right" ID="ID_971540846" CREATED="1684309735602" MODIFIED="1684844135069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -383,7 +388,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Profile" FOLDED="true" ID="ID_186023628" CREATED="1684309423737" MODIFIED="1684844135064"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Profile" ID="ID_186023628" CREATED="1684309423737" MODIFIED="1684844135064"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -471,21 +476,19 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Media" POSITION="bottom_or_right" ID="ID_827881537" CREATED="1684403079507" MODIFIED="1684844135070"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+</node>
+<node TEXT="Photo" ID="ID_587800223" CREATED="1684332070948" MODIFIED="1689075512972"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      Videos, but Youtube only, unfortunately
+      You can add your photo via Elements - Edit Profile. Please select a square image of yourself, of at least 400px X 400px. In selecting a photo, keep in mind that this is a professional profile, not a social media site.
     </p>
   </body>
-</html></richcontent>
-</node>
-</node>
-<node TEXT="Photo" ID="ID_587800223" CREATED="1684332070948" MODIFIED="1684844135070">
-<node TEXT="You can add your photo via ELements - Edit Profile. Please use a square image of at least 400px X 400px" ID="ID_807794739" CREATED="1688632422107" MODIFIED="1688632507686"/>
+</html>
+</richcontent>
 </node>
 <node TEXT="Publications" ID="ID_1017685418" CREATED="1684309439194" MODIFIED="1686725737276" VGAP_QUANTITY="3 pt">
 <node TEXT="Favourites" ID="ID_1466438706" CREATED="1684310179320" MODIFIED="1688632557719"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
@@ -554,7 +557,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Grants" FOLDED="true" ID="ID_993025686" CREATED="1684309445101" MODIFIED="1684844135071">
+<node TEXT="Grants" ID="ID_993025686" CREATED="1684309445101" MODIFIED="1684844135071">
 <node TEXT="Research Interests" ID="ID_258758712" CREATED="1684401252798" MODIFIED="1684844135071"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -727,7 +730,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Professional Activities" FOLDED="true" ID="ID_1269813245" CREATED="1684309452964" MODIFIED="1684844135073">
+<node TEXT="Professional Activities" ID="ID_1269813245" CREATED="1684309452964" MODIFIED="1684844135073">
 <node TEXT="Confidentiality" LOCALIZED_STYLE_REF="styles.important" ID="ID_1235447875" CREATED="1684309905660" MODIFIED="1684844135073"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -852,7 +855,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Teaching Activities" FOLDED="true" ID="ID_9844045" CREATED="1684309479436" MODIFIED="1684844135074">
+<node TEXT="Teaching Activities" ID="ID_9844045" CREATED="1684309479436" MODIFIED="1684844135074">
 <node TEXT="Teaching Summary" ID="ID_686336025" CREATED="1684309504603" MODIFIED="1684844135074"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
@@ -865,7 +868,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Research Degree Supervision [Under Construction]" ID="ID_1824497349" CREATED="1684309485422" MODIFIED="1684844135075"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Research Degree Supervision [Under construction]" ID="ID_1824497349" CREATED="1684309485422" MODIFIED="1688634788933"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -877,20 +880,21 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Teaching Feed (under construction)" ID="ID_1540756977" CREATED="1684309929701" MODIFIED="1684844135075"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Teaching Feed [Under construction]" ID="ID_1540756977" CREATED="1684309929701" MODIFIED="1688634783153"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      We plan to draw data from the new Teaching Load and Allocation database, once it is running
+      We plan to draw data from the new&#xa0;WAMS Teaching Activities database, once it is running
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
-<node TEXT="Labels" FOLDED="true" ID="ID_1697807013" CREATED="1684314246796" MODIFIED="1684844135075"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Labels" ID="ID_1697807013" CREATED="1684314246796" MODIFIED="1684844135075"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -937,17 +941,18 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Vocabulary updates" ID="ID_970308030" CREATED="1684830151026" MODIFIED="1684839071544"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Vocabulary updates" ID="ID_970308030" CREATED="1684830151026" MODIFIED="1688634496613"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      The controlled vocabularies for these labels are under review, but revisions will not be available in time for the launch of the new profiles. Further announcements will follow.
+      The controlled vocabularies for these labels are under review, to bring them into line with the Library's Barnard Classification 2023 Revision.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node TEXT="Departments" FOLDED="true" ID="ID_468624942" CREATED="1684916478633" MODIFIED="1684916689182"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
@@ -1011,15 +1016,21 @@
 </node>
 </node>
 </node>
-<node TEXT="Timeline" FOLDED="true" POSITION="bottom_or_right" ID="ID_1624495747" CREATED="1684309401124" MODIFIED="1684844135076">
+<node TEXT="Timeline" POSITION="bottom_or_right" ID="ID_1624495747" CREATED="1684309401124" MODIFIED="1684844135076">
 <node TEXT="enable URL" ID="ID_38669283" CREATED="1684414375951" MODIFIED="1684414388777">
-<node TEXT="enable DNS" POSITION="bottom_or_right" ID="ID_525194546" CREATED="1684414437546" MODIFIED="1684414447593"/>
+<node TEXT="enable DNS" POSITION="bottom_or_right" ID="ID_525194546" CREATED="1684414437546" MODIFIED="1688634824860">
+<icon BUILTIN="button_ok"/>
+</node>
 <node TEXT="enable global access" POSITION="bottom_or_right" ID="ID_321725861" CREATED="1684414390632" MODIFIED="1684414417319"/>
 </node>
 <node TEXT="Clear out Labels" ID="ID_331598744" CREATED="1684837996580" MODIFIED="1684838047231"/>
-<node TEXT="Set PSP to" ID="ID_1561636061" CREATED="1684838047961" MODIFIED="1684838073265"/>
+<node TEXT="Set PSP to Internal" ID="ID_1561636061" CREATED="1684838047961" MODIFIED="1688634846796">
+<icon BUILTIN="button_ok"/>
+</node>
 <node TEXT="Pilot" ID="ID_1816066118" CREATED="1684414351313" MODIFIED="1684414357537">
-<node TEXT="June 2023" ID="ID_220355001" CREATED="1684414508489" MODIFIED="1684414516005"/>
+<node TEXT="June 2023" ID="ID_220355001" CREATED="1684414508489" MODIFIED="1688634852684">
+<icon BUILTIN="button_ok"/>
+</node>
 </node>
 <node TEXT="Revise" ID="ID_1349654719" CREATED="1684414470509" MODIFIED="1684414475955"/>
 <node TEXT="Announce" ID="ID_1709929390" CREATED="1684310235728" MODIFIED="1684310241117">
@@ -1034,7 +1045,7 @@
 <node TEXT="September 2023" ID="ID_935681912" CREATED="1684414566675" MODIFIED="1684414575738"/>
 </node>
 </node>
-<node TEXT="Support" FOLDED="true" POSITION="bottom_or_right" ID="ID_1595715963" CREATED="1684310250207" MODIFIED="1684844135076">
+<node TEXT="Support" POSITION="bottom_or_right" ID="ID_1595715963" CREATED="1684310250207" MODIFIED="1684844135076">
 <node TEXT="Documentation" ID="ID_316822693" CREATED="1684312810879" MODIFIED="1684312821151">
 <node TEXT="What Goes Where" ID="ID_485305128" CREATED="1684313455033" MODIFIED="1684313463789"/>
 </node>
