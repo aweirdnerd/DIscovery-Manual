@@ -38,7 +38,7 @@ Discovery profiles synchronize with Elements in real-time, so edits you make in 
 
 ## Coverage
 
-All profiles will depend on having a active account on Elements. Accounts become inactive immediately when employment or registration finishes
+All profiles will depend on having an active account on Elements. Accounts become inactive immediately when employment or registration finishes
 
 
 ### Academic
@@ -60,17 +60,12 @@ DL Tutors are not currently added automatically to Elements, but this is under r
 
 ### Research Students
 
-All current RD students have an ELements account
-
-
-### Professional Support
-
-All PSP staff have Elements accounts
+All current RD students have an Elements account
 
 
 ### MRC Units
 
-We hope to have all Academic staff from the Units set up in ELements shortly
+Academic staff from the Units Now have accounts in Elements. These will be updated periodically
 
 
 ### Honorary
@@ -78,14 +73,19 @@ We hope to have all Academic staff from the Units set up in ELements shortly
 Honorary and Visiting staff accounts can be set-up on request. Former staff can be re-enabled as Honorary
 
 
+### Professional Support
+
+All PSP staff have Elements accounts.
+
+
 ## Privacy
 
 Elements has a Profile privacy setting that will determine whether the user's profile will be displayed in Discovery, and the existing web profiles.
 
 
-### Current users public
+### Current users default to public
 
-All current academic Elements users will be set to Public by default.  PSP staff who have links to publications will also be set to Public. Other PSP staff profiles will default to Internal, but can opt to make them public. This will affect both sets of profiles.
+All current academic Elements users will be set to Public by default.  PSP staff who have links to publications will also be set to Public. PSP staff with existing profiles will be set to Public. Other PSP staff will default to Internal, but they can opt to make them public. This will affect both Discovery and Gateway profiles.
 
 
 #### Eprints warning
@@ -137,14 +137,10 @@ A general overview of your background and interests. There are also specific tex
 These appear in a sidebar
 
 
-### Media
-
-Videos, but Youtube only, unfortunately
-
-
 ## Photo
 
-### You can add your photo via ELements - Edit Profile. Please use a square image of at least 400px X 400px
+You can add your photo via Elements - Edit Profile. Please select a square image of yourself, of at least 400px X 400px. In selecting a photo, keep in mind that this is a professional profile, not a social media site.
+
 
 ## Publications
 
@@ -198,6 +194,9 @@ You should generally only add yourself as Co-I or Co-PI if you are known to the 
 
 
 #### How to Link to Grant
+
+Menu - My Profile -My Work - Grants - <paperclip icon>
+
 
 ### Modifying Grants
 
@@ -316,23 +315,21 @@ Standing Committees, Working parties, Welfare roles, voluntary posts, Union offi
 Free-text field to describe your involvement in Teaching and Learning
 
 
-### Research Degree Supervision [Under Construction]
+### Research Degree Supervision [Under construction]
 
 Either added manually, or drawn from SITS Registry database [??]
 
 
-### Teaching Feed (under construction)
+### Teaching Feed [Under construction]
 
-We plan to draw data from the new Teaching Load and Allocation database, once it is running
+We plan to draw data from the new WAMS Teaching Activities database, once it is running
 
 
 ## Labels
 
-Users should edit their labels in Elements under the existing five label schemes.
+Users should edit their labels in Elements under the existing four label schemes.
 
-- Research Areas
-
-- Disciplines
+- Research Areas and Disciplines
 
 - Diseases and Conditions
 
@@ -357,7 +354,7 @@ Users are encouraged to focus on their main specialisms rather than signalling t
 
 ### Vocabulary updates
 
-The controlled vocabularies for these labels are under review, but revisions will not be available in time for the launch of the new profiles. Further announcements will follow.
+The controlled vocabularies for these labels are under review, to bring them into line with the Library's Barnard Classification 2023 Revision.
 
 
 ## Departments
@@ -384,57 +381,3 @@ There is a  menu on the Discovery Search page showing the School Research Centre
 
  Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
 
-
-# Timeline
-
-## enable URL
-
-### enable DNS
-
-### enable global access
-
-## Clear out Labels
-
-## Set PSP to
-
-## Pilot
-
-### June 2023
-
-## Revise
-
-## Announce
-
-### August 2023
-
-## Monitor
-
-### Profile Completeness Reports
-
-### Who will monitor and chase up?
-
-## Remind
-
-## Go Live
-
-### September 2023
-
-# Support
-
-## Documentation
-
-### What Goes Where
-
-## Videos??
-
-## Drop-ins
-
-## ServiceDesk
-
-### KnowledgeBase Items
-
-### Guide for 1st-line support staff
-
-### Categories for Queries
-
-### Who fields 2nd-line?
