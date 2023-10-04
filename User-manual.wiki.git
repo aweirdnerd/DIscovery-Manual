@@ -33,7 +33,7 @@ Instant updates
 
 ==Coverage==
 
-''All profiles will depend on having a active account on Elements. Accounts become inactive immediately when employment or registration finishes
+''All profiles will depend on having an active account on Elements. Accounts become inactive immediately when employment or registration finishes
 
 ===Academic===
 Current Staff
@@ -54,12 +54,12 @@ Distance Learning Tutors
 Research Students
 
 
-''All current RD students have an ELements account
+''All current RD students have an Elements account
 
 MRC Units
 
 
-''We hope to have all Academic staff from the Units set up in ELements shortly
+''Academic staff from the Units Now have accounts in Elements. These will be updated periodically
 
 Honorary
 
@@ -75,9 +75,9 @@ Professional Support
 
 ''Elements has a Profile privacy setting that will determine whether the user's profile will be displayed in Discovery, and the existing web profiles.
 
-===Current users public===
+===Current users default to public===
 
-''All current academic Elements users will be set to Public by default.  PSP staff who have links to publications will also be set to Public. Other PSP staff profiles will default to Internal, but can opt to make them public. This will affect both sets of profiles.
+''All current academic Elements users will be set to Public by default.  PSP staff who have links to publications will also be set to Public. PSP staff with existing profiles will be set to Public. Other PSP staff will default to Internal, but they can opt to make them public. This will affect both Discovery and Gateway profiles.
 
 Eprints warning
 
@@ -116,25 +116,20 @@ Name
 
 ''Your name as recorded in HR or Registry may differ from that on your earlier profile. You can adjust the name displayed via Elements - Menu - My Profile - Preferred Name. If you adjust this to match your existing Web Profile, internal and external links to that will continue to work. Searches for your name will also respond to your 'Known as' alias in HR, and both your Preferred and HR names. Your new profile URL includes your Elements User-ID, so will always be unique regardless of name-clashes
 
-Bio
+Ovierview/Bio
 
 
-''A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Media, see below
+''A general overview of your background and interests. There are also specific text fields for Research Interests and Teaching Summary, which appear on the Grants and Teaching tabs.  Note that this is a plain text field, and cannot include hyperlinks (unlike the current profiles). Links to other websites can be added as Web addresses or Social Media
 
-Web addresses
-
-
-''These appear in a sidebar
-
-Media
+Web addresses and Social Media IDs
 
 
-''Videos, but Youtube only, unfortunately
+''These appear in a sidebar in both DIscovery and Website profiles. You may add as many as you wish
 
 Photo
 
 
-''You can add your photo via ELements - Edit Profile. Please use a square image of at least 400px X 400px
+''You can add your photo via Elements - Edit Profile. Please select a square image of yourself, of at least 400px X 400px. In selecting a photo, keep in mind that this is a professional profile, not a social media site. Ensure that your face is centred in the original photo, as cropping in Elements is not reproduced in the website profile
 
 ==Publications==
 Favourites
@@ -184,6 +179,9 @@ Adding Co-investigators
 ''You should generally only add yourself as Co-I or Co-PI if you are known to the funder in that capacity
 
 How to Link to Grant
+
+
+''Menu - My Profile -My Work - Grants - <paperclip icon>
 
 ===Modifying Grants===
 
@@ -306,11 +304,9 @@ Teaching Feed [Under construction]
 
 ==Labels==
 
-''Users should edit their labels in Elements under the existing five label schemes.
+''Users should edit their labels in Elements under the existing four label schemes.
 
-- Research Areas
-
-- Disciplines
+- Research Areas and Disciplines
 
 - Diseases and Conditions
 
@@ -359,49 +355,4 @@ Linking to Research Centres
 
 
 '' Users may link themselves to Centres via Elements - Menu -My Profile - Projects - <paper-clip icon> Add Project Relationship
-
-=Timeline=
-==enable URL==
-enable DNS
-
-enable global access
-
-Clear out Labels
-
-Set PSP to Internal
-
-==Pilot==
-June 2023
-
-Revise
-
-==Announce==
-August 2023
-
-==Monitor==
-Profile Completeness Reports
-
-Who will monitor and chase up?
-
-Remind
-
-==Go Live==
-September 2023
-
-=Support=
-==Documentation==
-What Goes Where
-
-Videos??
-
-Drop-ins
-
-==ServiceDesk==
-KnowledgeBase Items
-
-Guide for 1st-line support staff
-
-Categories for Queries
-
-Who fields 2nd-line?
 
